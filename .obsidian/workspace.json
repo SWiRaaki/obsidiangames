@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "f6516f5b5478dc9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9fae06e886dd856",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5096f19d614b38ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elden Ring/NPCs/Twin Maiden Husks.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Twin Maiden Husks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b17118b38f25169f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98af11d76c71e43f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elden Ring/Elden Ring Fullclear.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Elden Ring Fullclear"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0ceb9381ac526f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f66cc81e303e500a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "838339f633b7e21b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c22290c8cf68a7d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9fe081a9cd7763c2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "708364b7432c9437",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed2e3e3bae02e414",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7696a76c50ac0a61",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Elden Ring/Elden Ring Fullclear.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Elden Ring Fullclear"
+            }
+          },
+          {
+            "id": "5c18fba9a305d339",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Elden Ring/Elden Ring Fullclear.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Elden Ring Fullclear"
+            }
+          },
+          {
+            "id": "05e2bfe78fb6c8ee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "902af95c768dd6da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Elden Ring/Elden Ring Fullclear.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Elden Ring Fullclear"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5096f19d614b38ac",
+  "lastOpenFiles": [
+    "Elden Ring/Elden Ring Fullclear.md",
+    "Elden Ring/NPCs/Twin Maiden Husks.md",
+    "Elden Ring/NPCs/Preceptor Seluvis.md",
+    "Elden Ring/Weapons/Melee/Daggers/Parrying Dagger.md",
+    "Elden Ring/Weapons/Melee/Daggers.md",
+    "Elden Ring/Weapons/Melee/Daggers/Dagger.md",
+    "Elden Ring/NPCs/Pidia, Carian Servant.md",
+    "Elden Ring/rsx/rsx_img_npc_preceptor_seluvis.png",
+    "Elden Ring/rsx/rsx_img_npc_pidia_carian_servant.png",
+    "Elden Ring/Items/Cookbooks/Fevor's Cookbook (3).md",
+    "Elden Ring/Weapons/Melee/Daggers/Misericorde.md",
+    "Elden Ring/Maps/Areas/Limgrave.md",
+    "Elden Ring/Weapons/Weapons.md",
+    "Elden Ring/Items/Keys/Rya's Necklace.md",
+    "Elden Ring/Items/Keys",
+    "Elden Ring/Weapons/Melee/Daggers/Erdsteel Dagger.md",
+    "Elden Ring/rsx/rsx_img_map_realm_of_shadow.png",
+    "Elden Ring/Maps/Realm of Shadow.md",
+    "Elden Ring/Maps/The Lands Between.md",
+    "Elden Ring/Maps/Regions/Stormhill.md",
+    "Elden Ring/Maps/Regions/Stormveil Castle.md",
+    "Elden Ring/Maps/Regions/Mistwood.md",
+    "Elden Ring/Maps/Regions/Main Limgrave.md",
+    "Elden Ring/Maps/Areas/Weeping Peninsula.md",
+    "Elden Ring/Items/Cookbooks",
+    "Elden Ring/Items",
+    "Elden.md",
+    "Elden Ring/rsx/rsx_img_npc_twin_maiden_husks.png",
+    "Elden Ring/Weapons/Melee/Daggers/Great Knife.md",
+    "Elden Ring/Weapons/Melee/Daggers/Bloodstained Dagger.md",
+    "Elden Ring/rsx/rsx_img_npc_twin_maiden_husks.webp",
+    "Elden Ring/rsx/rsx_img_weapon_daggers_bloodstained_dagger.png",
+    "Elden Ring/rsx/rsx_img_weapon_daggers_great_knife.png",
+    "Elden Ring/rsx/rsx_img_weapon_daggers_misericorde.png",
+    "Elden Ring/rsx/rsx_img_weapon_daggers_parrying_dagger.png",
+    "Elden Ring/Enemies/Humanoids",
+    "Elden Ring/Enemies/Bosses",
+    "Elden Ring/Enemies/Elite",
+    "Elden Ring/Enemies/Invade",
+    "Elden Ring/Enemies/Wildlife",
+    "Elden Ring/Enemies",
+    "Elden Ring/rsx/rsx_img_weapon_daggers_dagger.png",
+    "Elden Ring/Weapons/Melee/Daggers",
+    "Elden Ring/Regions/Limgrave.md",
+    "Elden Ring%2FLocations%2FLimgrave.md"
+  ]
+}
