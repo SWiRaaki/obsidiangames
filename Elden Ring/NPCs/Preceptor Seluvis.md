@@ -43,3 +43,4 @@ Seluvis an Merchant NPC. He is a pompous sorcerer in service to [[Elden Ring/NP
 - [[Elden Ring/Items/Keys/Seluvis's Bell Bearing|Seluvis's Bell Bearing]]
 - [[Elden Ring/Armor/Set/Preceptor's Set|Preceptor's Set]]
 #
+#Vanilla #NPC #Merchant #Quest 

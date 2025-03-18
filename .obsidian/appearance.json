@@ -1,3 +1,5 @@
 {
-  "textFontFamily": "FiraMono Nerd Font Mono"
+  "textFontFamily": "FiraMono Nerd Font Mono",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono"
 }

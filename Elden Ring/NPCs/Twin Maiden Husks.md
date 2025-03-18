@@ -8,33 +8,33 @@ Twin Maiden Husks is an Merchant NPC and can take in Bell Bearings to expand the
 
 # Store
 ## Base Store
-| Item | Quantity |
+| Item                                                                                       | Quantity |
 | ---- | -------- |
-| [[Elden Ring/Weapons/Melee/Axes/Battle Axe\|Battle Axe]] | 1 |
-| [[Elden Ring/Casts/Incantations/Black Flame's Protection\|Black Flame's Protection]] | 1 |
-| [[Elden Ring/Items/Multiplayer/Blue Cipher Ring\|Blue Cipher Ring]] | 1 |
-| [[Elden Ring/Weapons/Melee/Daggers/Dagger\|Dagger]] | 1 |
-| [[Elden Ring/Items/Cookbooks/Fevor's Cookbook (3)\|Fevor's Cookbook (3)]] | 1 |
-| [[Elden Ring/Weapons/Catalysts/Seals/Finger Seal\|Finger Seal]] | 1 |
-| [[Elden Ring/Items/Keys/Furled Finger's Trick-Mirror\|Furled Finger's Trick-Mirror]] | 1 |
-| [[Elden Ring/Weapons/Shields/Medium Shields/Heater Shield\|Heater Shield]] | 1 |
-| [[Elden Ring/Items/Keys/Host's Trick-Mirror\|Host's Trick-Mirror]] | 1 |
-| [[Elden Ring/Armor/Helm/Knight Helm\|Knight Helm]] | 1 |
-| [[Elden Ring/Armor/Torso/Knight Armor\|Knight Armor]] | 1 |
-| [[Elden Ring/Armor/Gauntlets/Knight Gauntlets\|Knight Gauntlets]] | 1 |
-| [[Elden Ring/Armor/Greaves/Knight Greaves\|Knight Greaves]] | 1 |
-| [[Elden Ring/Casts/Incantations/Law of Causality\|Law of Causality]] | 1 |
-| [[Elden Ring/Weapons/Ranged/Bows/Longbow\|Longbow]] | 1 |
-| [[Elden Ring/Weapons/Melee/Straight Swords/Longsword\|Longsword]] | 1 |
+| [[Elden Ring/Weapons/Melee/Axes/Battle Axe\|Battle Axe]]                                   | 1 |
+| [[Elden Ring/Casts/Incantations/Black Flame's Protection\|Black Flame's Protection]]       | 1 |
+| [[Elden Ring/Items/Multiplayer/Blue Cipher Ring\|Blue Cipher Ring]]                        | 1 |
+| [[Dagger\|Dagger]]                                        | 1 |
+| [[Elden Ring/Items/Cookbooks/Fevor's Cookbook (3)\|Fevor's Cookbook (3)]]                  | 1 |
+| [[Elden Ring/Weapons/Catalysts/Seals/Finger Seal\|Finger Seal]]                            | 1 |
+| [[Elden Ring/Items/Keys/Furled Finger's Trick-Mirror\|Furled Finger's Trick-Mirror]]       | 1 |
+| [[Elden Ring/Weapons/Shields/Medium Shields/Heater Shield\|Heater Shield]]                 | 1 |
+| [[Elden Ring/Items/Keys/Host's Trick-Mirror\|Host's Trick-Mirror]]                         | 1 |
+| [[Elden Ring/Armor/Helm/Knight Helm\|Knight Helm]]                                         | 1 |
+| [[Elden Ring/Armor/Torso/Knight Armor\|Knight Armor]]                                      | 1 |
+| [[Elden Ring/Armor/Gauntlets/Knight Gauntlets\|Knight Gauntlets]]                          | 1 |
+| [[Elden Ring/Armor/Greaves/Knight Greaves\|Knight Greaves]]                                | 1 |
+| [[Elden Ring/Casts/Incantations/Law of Causality\|Law of Causality]]                       | 1 |
+| [[Elden Ring/Weapons/Ranged/Bows/Longbow\|Longbow]]                                        | 1 |
+| [[Elden Ring/Weapons/Melee/Straight Swords/Longsword\|Longsword]]                          | 1 |
 | [[Elden Ring/Casts/Incantations/Lord's Divine Fortification\|Lord's Divine Fortification]] | 1 |
-| [[Elden Ring/Weapons/Melee/Hammers/Mace\|Mace]] | 1 |
-| [[Elden Ring/Items/Keys/Memory Stone\|Memory Stone]] | 1 |
-| [[Elden Ring/Weapons/Melee/Thrusting Swords/Rapier\|Rapier]] | 1 |
-| [[Elden Ring/Items/Consumables/Rune Arc\|Rune Arc]] | 5 |
-| [[Elden Ring/Weapons/Melee/Curved Swords/Scimitar\|Scimitar]] | 1 |
-| [[Elden Ring/Weapons/Melee/Spears/Short Spear\|Short Spear]] | 1 |
-| [[Elden Ring/Items/Keys/Stonesword Keys\|Stonesword Keys]] | 3 |
-| [[Elden Ring/Items/Multiplayer/White Cipher Ring\|White Cipher Ring]] | 1 |
+| [[Elden Ring/Weapons/Melee/Hammers/Mace\|Mace]]                                            | 1 |
+| [[Elden Ring/Items/Keys/Memory Stone\|Memory Stone]]                                       | 1 |
+| [[Elden Ring/Weapons/Melee/Thrusting Swords/Rapier\|Rapier]]                               | 1 |
+| [[Elden Ring/Items/Consumables/Rune Arc\|Rune Arc]]                                        | 5 |
+| [[Elden Ring/Weapons/Melee/Curved Swords/Scimitar\|Scimitar]]                              | 1 |
+| [[Elden Ring/Weapons/Melee/Spears/Short Spear\|Short Spear]]                               | 1 |
+| [[Elden Ring/Items/Keys/Stonesword Key\|Stonesword Key]]                                   | 3 |
+| [[Elden Ring/Items/Multiplayer/White Cipher Ring\|White Cipher Ring]]                      | 1 |
 <hr>
 
 ## Bell Bearings
@@ -47,13 +47,8 @@ Twin Maiden Husks is an Merchant NPC and can take in Bell Bearings to expand the
 ![[Elden Ring/NPCs/Preceptor Seluvis#Shop#Base Store]]
 
 ### [[Elden Ring/NPCs/Patches|Patches]]
-| Item | Quantity |
-| ---- | -------- |
-| [[Elden Ring/Items/Multiplayer/Festering Bloody Finger\|Festering Bloody Finger]] | 5 |
-| [[Elden Ring/Items/Multiplayer/Furlcalling Finger Remedy\|Furlcalling Finger Remedy]] | 3 |
-| [[Elden Ring/Weapons/Ammo/Great Arrow\|Great Arrow]] | 10 |
-| [[Elden Ring/Weapons/Ammo/Balista Bolt\|Balista Bolt]] | 5 |
-|  |  |
+
+![[Elden Ring/NPCs/Patches#Shop#Base Store]]
 
 ### [[Elden Ring/NPCs/Sellen|Sellen]]
 | Item | Quantity |
@@ -148,16 +143,16 @@ Twin Maiden Husks is an Merchant NPC and can take in Bell Bearings to expand the
 | [[Elden Ring/Items/Consumables/Stimulating Boluses\|Stimulating Boluses]] | 2 |
 
 ### [[Elden Ring/NPCs/Nomadic Merchant (4)|Nomadic Merchant (4)]]
-| Item | Quantity |
-| ---- | -------- |
-| [[Elden Ring/Weapons/Ammo/Arrow\|Arrow]] | ∞ |
-| [[Elden Ring/Weapons/Ammo/Bolt\|Bolt]] | ∞ |
-| [[Elden Ring/Items/Keys/Stonesword Keys\|Stonesword Keys]] | 1 |
-| [[Elden Ring/Weapons/Ammo/Great Arrow\|Great Arrow]] | 8 |
-| [[Elden Ring/Weapons/Ammo/Balista Bolt\|Balista Bolt]] | 8 |
-| [[Elden Ring/Armor/Helm/Iron Helm\|Iron Helm]] | 1 |
-| [[Elden Ring/Armor/Gauntlets/Iron Gauntlets\|Iron Gauntlets]] | 1 |
-|  | 1 |
+| Item                                                          | Quantity |
+| ------------------------------------------------------------- | -------- |
+| [[Elden Ring/Weapons/Ammo/Arrow\|Arrow]]                      | ∞        |
+| [[Elden Ring/Weapons/Ammo/Bolt\|Bolt]]                        | ∞        |
+| [[Elden Ring/Items/Keys/Stonesword Key\|Stonesword Key]]      | 1        |
+| [[Elden Ring/Weapons/Ammo/Great Arrow\|Great Arrow]]          | 8        |
+| [[Elden Ring/Weapons/Ammo/Balista Bolt\|Balista Bolt]]        | 8        |
+| [[Elden Ring/Armor/Helm/Iron Helm\|Iron Helm]]                | 1        |
+| [[Elden Ring/Armor/Gauntlets/Iron Gauntlets\|Iron Gauntlets]] | 1        |
+|                                                               | 1        |
 
 ### [[Elden Ring/NPCs/Nomadic Merchant (5)|Nomadic Merchant (5)]]
 | Item | Quantity |
@@ -220,18 +215,18 @@ Twin Maiden Husks is an Merchant NPC and can take in Bell Bearings to expand the
 |  |  |
 
 ### [[Elden Ring/NPCs/Abadoned Merchant|Abadoned Merchant]]
-| Item | Quantity |
+| Item                                                                                            | Quantity |
 | ---- | -------- |
-| [[Elden Ring/Weapons/Ammo/Dwelling Arrow\|Dwelling Arrow]] | 30 |
-| [[Elden Ring/Items/Crafting/Nascent Butterfly\|Nascent Butterfly]] | 5 |
+| [[Elden Ring/Weapons/Ammo/Dwelling Arrow\|Dwelling Arrow]]                                      | 30 |
+| [[Elden Ring/Items/Crafting/Nascent Butterfly\|Nascent Butterfly]]                              | 5 |
 | [[Elden Ring/Items/Cookbooks/Nomadic Warrior's Cookbook (17)\|Nomadic Warrior's Cookbook (17)]] | 1 |
 | [[Elden Ring/Items/Cookbooks/Nomadic Warrior's Cookbook (18)\|Nomadic Warrior's Cookbook (18)]] | 1 |
-| [[Elden Ring/Weapons/Melee/Curved Swords/Shotel\|Shotel]] | 1 |
-| [[Elden Ring/Items/Consumables/Soap\|Soap]] | 3 |
-| [[Elden Ring/Weapons/Ammo/Arrow\|Arrow]] | ∞ |
-| [[Elden Ring/Weapons/Ammo/Bolt\|Bolt]] | ∞ |
-| [[Elden Ring/Items/Keys/Larval Tear\|Larval Tear]] | 1 |
-| [[Elden Ring/Items/Keys/Stonesword Keys\|Stonesword Keys]] | 3 |
+| [[Elden Ring/Weapons/Melee/Curved Swords/Shotel\|Shotel]]                                       | 1 |
+| [[Elden Ring/Items/Consumables/Soap\|Soap]]                                                     | 3 |
+| [[Elden Ring/Weapons/Ammo/Arrow\|Arrow]]                                                        | ∞ |
+| [[Elden Ring/Weapons/Ammo/Bolt\|Bolt]]                                                          | ∞ |
+| [[Elden Ring/Items/Keys/Larval Tear\|Larval Tear]]                                              | 1 |
+| [[Elden Ring/Items/Keys/Stonesword Key\|Stonesword Key]]                                        | 3 |
 
 ### Imprisoned Merchant
 | Item | Quantity |
@@ -441,3 +436,8 @@ Twin Maiden Husks is an Merchant NPC and can take in Bell Bearings to expand the
 | Item | Quantity |
 | ---- | -------- |
 |  |  |
+
+# Quest
+Twin Maiden Husks has no quest and is always available in the [[Elden Ring/Maps/Locations/Roundtable Hold|Roundtable Hold]]
+#
+#Vanilla #NPC #Merchant 
