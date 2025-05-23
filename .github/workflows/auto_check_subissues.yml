@@ -11,36 +11,41 @@ jobs:
   check-parent-task:
     runs-on: ubuntu-latest
     steps:
-      - name: Find parent issues mentioning this one
-        uses: actions/github-script@v7
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const closedIssue = context.payload.issue;
-            const issueNumber = closedIssue.number;
-            const repo = context.repo;
-
-            // Search for issues that mention this one (parent candidates)
-            const { data: issues } = await github.rest.search.issuesAndPullRequests({
-              q: `repo:${repo.owner}/${repo.repo} type:issue ${issueNumber}`,
-            });
-
-            for (const issue of issues.items) {
-              if (issue.number === issueNumber) continue; // skip self
-
-              let updatedBody = issue.body;
-
-              // Regex to find a checklist item with this issue number
-              const regex = new RegExp(`- \\[ \\] #${issueNumber}(.*)`, 'g');
-              updatedBody = updatedBody.replace(regex, `- [x] #${issueNumber}$1`);
-
-              if (updatedBody !== issue.body) {
-                await github.rest.issues.update({
-                  owner: repo.owner,
-                  repo: repo.repo,
-                  issue_number: issue.number,
-                  body: updatedBody,
-                });
-                console.log(`Updated parent issue #${issue.number}`);
-              }
+    - name: Find parent issues mentioning this one
+      uses: actions/github-script@v7
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        script: |
+          const closedIssue = context.payload.issue;
+    
+          // Only proceed if the issue was closed with reason "completed" (i.e. "Done")
+          if (closedIssue.state_reason !== 'completed') {
+            console.log(`Issue #${closedIssue.number} closed with reason "${closedIssue.state_reason}". Skipping update.`);
+            return;
+          }
+    
+          const issueNumber = closedIssue.number;
+          const repo = context.repo;
+    
+          const { data: searchResults } = await github.rest.search.issuesAndPullRequests({
+            q: `repo:${repo.owner}/${repo.repo} type:issue ${issueNumber}`,
+          });
+    
+          for (const issue of searchResults.items) {
+            if (issue.number === issueNumber) continue; // skip the closed issue itself
+    
+            let body = issue.body || ''; // Avoid null error
+    
+            const regex = new RegExp(`- \\[ \\] #${issueNumber}(.*)`, 'g');
+            const updatedBody = body.replace(regex, `- [x] #${issueNumber}$1`);
+    
+            if (updatedBody !== body) {
+              await github.rest.issues.update({
+                owner: repo.owner,
+                repo: repo.repo,
+                issue_number: issue.number,
+                body: updatedBody,
+              });
+              console.log(`Updated parent issue #${issue.number}`);
             }
+          }
