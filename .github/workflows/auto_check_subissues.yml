@@ -19,12 +19,6 @@ jobs:
             const closedIssue = context.payload.issue;
             const issueNumber = closedIssue.number;
             const repo = context.repo;
-            const reason = closedIssue.state_reason;
-
-            // if (reason !== 'Done') {
-            // console.log(`Issue #${closedIssue.number} closed with reason: ${closedIssue.state_reason}. Skipping update.`);
-            //   return;
-            // }
 
             // Search for issues that mention this one (parent candidates)
             const { data: issues } = await github.rest.search.issuesAndPullRequests({
