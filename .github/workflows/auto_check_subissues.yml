@@ -21,7 +21,7 @@ jobs:
             const repo = context.repo;
             const reason = closedIssue.state_reason;
 
-            if (reason !== 'completed') {
+            if (reason !== 'Done') {
             console.log(`Issue #${closedIssue.number} closed with reason: ${closedIssue.state_reason}. Skipping update.`);
               return;
             }
